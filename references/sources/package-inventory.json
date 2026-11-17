@@ -1,0 +1,28 @@
+{
+  "entries": [
+    "word/media/image1.png",
+    "word/media/image2.png",
+    "word/media/image3.png",
+    "word/media/image4.png",
+    "word/media/image5.png",
+    "word/media/image6.png",
+    "word/numbering.xml",
+    "[Content_Types].xml",
+    "word/_rels/document.xml.rels",
+    "word/document.xml",
+    "word/styles.xml",
+    "_rels/.rels"
+  ],
+  "paragraphs": 1585,
+  "text_characters": 57242,
+  "styles": {
+    "shimo heading 1": 47,
+    "shimo normal": 1537,
+    "": 1
+  },
+  "tables": 0,
+  "textboxes": 0,
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "hyperlinks": 0
+}
